@@ -9,5 +9,7 @@ Get last element in array by ^1
 
 ![image](https://github.com/danilt2000/High-Performance-Computing-with-C-12-and-.NET-8/assets/75219332/e24f3fda-5147-4ea0-a778-e6587a5b1dce)
 
+![image](https://github.com/danilt2000/High-Performance-Computing-with-C-12-and-.NET-8/assets/75219332/10c2ff8c-5376-43e0-bbbf-7cdc34a7782a)
+
 ![image](https://github.com/danilt2000/High-Performance-Computing-with-C-12-and-.NET-8/assets/75219332/23c7a610-e52c-47dc-a688-37a68e38e240)
 
