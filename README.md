@@ -13,3 +13,6 @@ Get last element in array by ^1
 
 ![image](https://github.com/danilt2000/High-Performance-Computing-with-C-12-and-.NET-8/assets/75219332/23c7a610-e52c-47dc-a688-37a68e38e240)
 
+![image](https://github.com/user-attachments/assets/95d2baf3-3930-4f76-a63b-6a26cefd90ff)
+
+
